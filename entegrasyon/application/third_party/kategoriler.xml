@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <item>
+  <label><![CDATA[Cilt Bakım Ürünleri]]></label>
+  <catId>134</catId>
+  <parentLabel><![CDATA[]]></parentLabel>
+  <parentId></parentId>
+ </item>
+ <item>
+  <label><![CDATA[Anne Bakım Ürünleri]]></label>
+  <catId>135</catId>
+  <parentLabel><![CDATA[]]></parentLabel>
+  <parentId></parentId>
+ </item>
+ <item>
+  <label><![CDATA[Bebek Bakım Ürünleri]]></label>
+  <catId>136</catId>
+  <parentLabel><![CDATA[]]></parentLabel>
+  <parentId></parentId>
+ </item>
+ <item>
+  <label><![CDATA[Saç Bakım Ürünleri]]></label>
+  <catId>137</catId>
+  <parentLabel><![CDATA[]]></parentLabel>
+  <parentId></parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kişisel Bakım Ürünleri]]></label>
+  <catId>138</catId>
+  <parentLabel><![CDATA[]]></parentLabel>
+  <parentId></parentId>
+ </item>
+ <item>
+  <label><![CDATA[Güneş Ürünleri]]></label>
+  <catId>139</catId>
+  <parentLabel><![CDATA[]]></parentLabel>
+  <parentId></parentId>
+ </item>
+ <item>
+  <label><![CDATA[Makyaj Ürünleri]]></label>
+  <catId>140</catId>
+  <parentLabel><![CDATA[]]></parentLabel>
+  <parentId></parentId>
+ </item>
+ <item>
+  <label><![CDATA[Yüz  Makyaj Ürünleri]]></label>
+  <catId>141</catId>
+  <parentLabel><![CDATA[Makyaj Ürünleri]]></parentLabel>
+  <parentId>140</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Vücut Bakım Ürünleri]]></label>
+  <catId>142</catId>
+  <parentLabel><![CDATA[Kişisel Bakım Ürünleri]]></parentLabel>
+  <parentId>138</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Sağlık Ürünleri]]></label>
+  <catId>143</catId>
+  <parentLabel><![CDATA[]]></parentLabel>
+  <parentId></parentId>
+ </item>
+ <item>
+  <label><![CDATA[Cinsel Sağlık Ürünleri]]></label>
+  <catId>144</catId>
+  <parentLabel><![CDATA[]]></parentLabel>
+  <parentId></parentId>
+ </item>
+ <item>
+  <label><![CDATA[Emzirme ve Göğüs Bakımı]]></label>
+  <catId>149</catId>
+  <parentLabel><![CDATA[Anne Bakım Ürünleri]]></parentLabel>
+  <parentId>135</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Banyo Ürünleri]]></label>
+  <catId>150</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>136</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Anti-Aging Ürünler]]></label>
+  <catId>151</catId>
+  <parentLabel><![CDATA[Cilt Bakım Ürünleri]]></parentLabel>
+  <parentId>134</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Leke Önlemeye Yardımcı Ürünler]]></label>
+  <catId>152</catId>
+  <parentLabel><![CDATA[Cilt Bakım Ürünleri]]></parentLabel>
+  <parentId>134</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Şampuanlar]]></label>
+  <catId>153</catId>
+  <parentLabel><![CDATA[Saç Bakım Ürünleri]]></parentLabel>
+  <parentId>137</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Cilt Temizleme Ürünleri]]></label>
+  <catId>154</catId>
+  <parentLabel><![CDATA[Cilt Bakım Ürünleri]]></parentLabel>
+  <parentId>134</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Nemlendiriciler]]></label>
+  <catId>155</catId>
+  <parentLabel><![CDATA[Cilt Bakım Ürünleri]]></parentLabel>
+  <parentId>134</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Gözenek Bakımı]]></label>
+  <catId>156</catId>
+  <parentLabel><![CDATA[Cilt Bakım Ürünleri]]></parentLabel>
+  <parentId>134</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Dudak Bakım Ürünleri]]></label>
+  <catId>157</catId>
+  <parentLabel><![CDATA[Cilt Bakım Ürünleri]]></parentLabel>
+  <parentId>134</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Göz Çevresi Bakımı]]></label>
+  <catId>159</catId>
+  <parentLabel><![CDATA[Cilt Bakım Ürünleri]]></parentLabel>
+  <parentId>134</parentId>
+ </item>
+ <item>
+  <label><![CDATA[El-Ayak ve Tırnak Bakımı]]></label>
+  <catId>160</catId>
+  <parentLabel><![CDATA[Kişisel Bakım Ürünleri]]></parentLabel>
+  <parentId>138</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Saç Dökülme Önlemeye Yardımcı Ürünler]]></label>
+  <catId>161</catId>
+  <parentLabel><![CDATA[Saç Bakım Ürünleri]]></parentLabel>
+  <parentId>137</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Yetişkinler İçin]]></label>
+  <catId>162</catId>
+  <parentLabel><![CDATA[Güneş Ürünleri]]></parentLabel>
+  <parentId>139</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Maskeler]]></label>
+  <catId>163</catId>
+  <parentLabel><![CDATA[Cilt Bakım Ürünleri]]></parentLabel>
+  <parentId>134</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Akne ve Sivilce Ürünleri]]></label>
+  <catId>164</catId>
+  <parentLabel><![CDATA[Cilt Bakım Ürünleri]]></parentLabel>
+  <parentId>134</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Cilt Bakım Ürünleri]]></label>
+  <catId>165</catId>
+  <parentLabel><![CDATA[Cilt Bakım Ürünleri]]></parentLabel>
+  <parentId>134</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Stick]]></label>
+  <catId>166</catId>
+  <parentLabel><![CDATA[Yetişkinler İçin]]></parentLabel>
+  <parentId>162</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Yağlar]]></label>
+  <catId>167</catId>
+  <parentLabel><![CDATA[Yetişkinler İçin]]></parentLabel>
+  <parentId>162</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Saç Bakım Kürleri]]></label>
+  <catId>169</catId>
+  <parentLabel><![CDATA[Saç Bakım Ürünleri]]></parentLabel>
+  <parentId>137</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Cilt Tipine Göre Güneş Ürünleri]]></label>
+  <catId>170</catId>
+  <parentLabel><![CDATA[Yetişkinler İçin]]></parentLabel>
+  <parentId>162</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Saç Bakım Maskeleri]]></label>
+  <catId>171</catId>
+  <parentLabel><![CDATA[Saç Bakım Ürünleri]]></parentLabel>
+  <parentId>137</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Çocuklar İçin]]></label>
+  <catId>173</catId>
+  <parentLabel><![CDATA[Güneş Ürünleri]]></parentLabel>
+  <parentId>139</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Güneş Sonrası]]></label>
+  <catId>174</catId>
+  <parentLabel><![CDATA[Yetişkinler İçin]]></parentLabel>
+  <parentId>162</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Duş Jelleri]]></label>
+  <catId>175</catId>
+  <parentLabel><![CDATA[Banyo Ve Spa Ürünleri]]></parentLabel>
+  <parentId>191</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Fondotenler]]></label>
+  <catId>176</catId>
+  <parentLabel><![CDATA[Yüz  Makyaj Ürünleri]]></parentLabel>
+  <parentId>141</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Saç Boyaları Ve Renk Yenilemeye Yardımcı Ürünler]]></label>
+  <catId>177</catId>
+  <parentLabel><![CDATA[Saç Bakım Ürünleri]]></parentLabel>
+  <parentId>137</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Saç Şekillendiriciler]]></label>
+  <catId>178</catId>
+  <parentLabel><![CDATA[Saç Bakım Ürünleri]]></parentLabel>
+  <parentId>137</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Saç  Kremleri]]></label>
+  <catId>179</catId>
+  <parentLabel><![CDATA[Saç Bakım Ürünleri]]></parentLabel>
+  <parentId>137</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tıraş Ürünleri]]></label>
+  <catId>180</catId>
+  <parentLabel><![CDATA[Kişisel Bakım Ürünleri]]></parentLabel>
+  <parentId>138</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Parfüm Deodorant Ve Roll-on]]></label>
+  <catId>181</catId>
+  <parentLabel><![CDATA[Kişisel Bakım Ürünleri]]></parentLabel>
+  <parentId>138</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Vücut Temizleme Ürünleri]]></label>
+  <catId>183</catId>
+  <parentLabel><![CDATA[Vücut Bakım Ürünleri]]></parentLabel>
+  <parentId>142</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Yara Ve Yanıklarda Kullanılan Yardımcı Ürünler]]></label>
+  <catId>184</catId>
+  <parentLabel><![CDATA[Sağlık Ürünleri]]></parentLabel>
+  <parentId>143</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Ağız Bakım Ürünleri]]></label>
+  <catId>185</catId>
+  <parentLabel><![CDATA[Kişisel Bakım Ürünleri]]></parentLabel>
+  <parentId>138</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Ruj Ve Dudak Ürünleri]]></label>
+  <catId>186</catId>
+  <parentLabel><![CDATA[Makyaj Ürünleri]]></parentLabel>
+  <parentId>140</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Makyaj Aksesuarları]]></label>
+  <catId>187</catId>
+  <parentLabel><![CDATA[Makyaj Ürünleri]]></parentLabel>
+  <parentId>140</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Prezervatifler]]></label>
+  <catId>188</catId>
+  <parentLabel><![CDATA[Cinsel Sağlık Ürünleri]]></parentLabel>
+  <parentId>144</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kayganlaştırıcı Jeller]]></label>
+  <catId>189</catId>
+  <parentLabel><![CDATA[Cinsel Sağlık Ürünleri]]></parentLabel>
+  <parentId>144</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Masaj Yağları]]></label>
+  <catId>190</catId>
+  <parentLabel><![CDATA[Cinsel Sağlık Ürünleri]]></parentLabel>
+  <parentId>144</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Banyo Ve Spa Ürünleri]]></label>
+  <catId>191</catId>
+  <parentLabel><![CDATA[Kişisel Bakım Ürünleri]]></parentLabel>
+  <parentId>138</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Bayanlara Özel]]></label>
+  <catId>192</catId>
+  <parentLabel><![CDATA[Kişisel Bakım Ürünleri]]></parentLabel>
+  <parentId>138</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Mamalar ve Çaylar]]></label>
+  <catId>193</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>136</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Biberonlar Ve Aksesuarları]]></label>
+  <catId>194</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>136</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Bebek Aksesuarları]]></label>
+  <catId>195</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>136</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Emzikler Ve Aksesuarları]]></label>
+  <catId>196</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>136</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Burun Açmaya Yardımcı Ürünler]]></label>
+  <catId>198</catId>
+  <parentLabel><![CDATA[Sağlık Ürünleri]]></parentLabel>
+  <parentId>143</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tüy Dökmeye ve Gidermeye Yardımcı Ürünler]]></label>
+  <catId>200</catId>
+  <parentLabel><![CDATA[Kişisel Bakım Ürünleri]]></parentLabel>
+  <parentId>138</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Saç Bakım Vitamin Takviyesine Yardımcı Ürünler]]></label>
+  <catId>201</catId>
+  <parentLabel><![CDATA[Saç Bakım Ürünleri]]></parentLabel>
+  <parentId>137</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Horlama önleyiciler]]></label>
+  <catId>203</catId>
+  <parentLabel><![CDATA[Sağlık Ürünleri]]></parentLabel>
+  <parentId>143</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Çatlak Önlemeye Yardımcı Ürünler]]></label>
+  <catId>204</catId>
+  <parentLabel><![CDATA[Anne Bakım Ürünleri]]></parentLabel>
+  <parentId>135</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Islak Mendiller]]></label>
+  <catId>205</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>136</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Vücut Sıkılaştırmaya Yardımcı Ürünler]]></label>
+  <catId>206</catId>
+  <parentLabel><![CDATA[Vücut Bakım Ürünleri]]></parentLabel>
+  <parentId>142</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Göğüs Ucu Kremi]]></label>
+  <catId>208</catId>
+  <parentLabel><![CDATA[Emzirme ve Göğüs Bakımı]]></parentLabel>
+  <parentId>149</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Göğüs Sarkmalarını Önleyiciler]]></label>
+  <catId>210</catId>
+  <parentLabel><![CDATA[Emzirme ve Göğüs Bakımı]]></parentLabel>
+  <parentId>149</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Pişik Ve Pişik Önlemeye Yardımcı Ürünler]]></label>
+  <catId>212</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>136</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Şampuanlar]]></label>
+  <catId>215</catId>
+  <parentLabel><![CDATA[Banyo Ürünleri]]></parentLabel>
+  <parentId>150</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Bebek Bakım Ürünleri]]></label>
+  <catId>216</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>136</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Cilt Temizleyiciler]]></label>
+  <catId>217</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>216</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Sabunlar]]></label>
+  <catId>219</catId>
+  <parentLabel><![CDATA[Banyo Ürünleri]]></parentLabel>
+  <parentId>150</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kremler]]></label>
+  <catId>220</catId>
+  <parentLabel><![CDATA[Anti-Aging Ürünler]]></parentLabel>
+  <parentId>151</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Hassas ve Kaşıntılı Saç Derisi]]></label>
+  <catId>221</catId>
+  <parentLabel><![CDATA[Şampuanlar]]></parentLabel>
+  <parentId>153</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Vücut Terleme Önlemeye Yardımcı Ürünler]]></label>
+  <catId>222</catId>
+  <parentLabel><![CDATA[Vücut Bakım Ürünleri]]></parentLabel>
+  <parentId>142</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Normal ve Karma Cilt]]></label>
+  <catId>223</catId>
+  <parentLabel><![CDATA[Cilt Temizleme Ürünleri]]></parentLabel>
+  <parentId>154</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Normal ve Karma Ciltler]]></label>
+  <catId>225</catId>
+  <parentLabel><![CDATA[Nemlendiriciler]]></parentLabel>
+  <parentId>155</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Normal Saçlar]]></label>
+  <catId>226</catId>
+  <parentLabel><![CDATA[Şampuanlar]]></parentLabel>
+  <parentId>153</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tüm Cilt Tipleri]]></label>
+  <catId>227</catId>
+  <parentLabel><![CDATA[Nemlendiriciler]]></parentLabel>
+  <parentId>155</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kuru Ciltler]]></label>
+  <catId>228</catId>
+  <parentLabel><![CDATA[Cilt Temizleme Ürünleri]]></parentLabel>
+  <parentId>154</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Yağlı Ciltler]]></label>
+  <catId>229</catId>
+  <parentLabel><![CDATA[Nemlendiriciler]]></parentLabel>
+  <parentId>155</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Yağlı Ciltler]]></label>
+  <catId>230</catId>
+  <parentLabel><![CDATA[Cilt Temizleme Ürünleri]]></parentLabel>
+  <parentId>154</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Gece Bakımı]]></label>
+  <catId>231</catId>
+  <parentLabel><![CDATA[Anti-Aging Ürünler]]></parentLabel>
+  <parentId>151</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Nemsiz Dudaklar]]></label>
+  <catId>232</catId>
+  <parentLabel><![CDATA[Dudak Bakım Ürünleri]]></parentLabel>
+  <parentId>157</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Hassas Ciltler]]></label>
+  <catId>233</catId>
+  <parentLabel><![CDATA[Cilt Temizleme Ürünleri]]></parentLabel>
+  <parentId>154</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Peelingler]]></label>
+  <catId>234</catId>
+  <parentLabel><![CDATA[Cilt Temizleme Ürünleri]]></parentLabel>
+  <parentId>154</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Makyaj Temizleme]]></label>
+  <catId>235</catId>
+  <parentLabel><![CDATA[Makyaj Ürünleri]]></parentLabel>
+  <parentId>140</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kırışıklık Bakımı]]></label>
+  <catId>236</catId>
+  <parentLabel><![CDATA[Göz Çevresi Bakımı]]></parentLabel>
+  <parentId>159</parentId>
+ </item>
+ <item>
+  <label><![CDATA[El Bakımı]]></label>
+  <catId>237</catId>
+  <parentLabel><![CDATA[El-Ayak ve Tırnak Bakımı]]></parentLabel>
+  <parentId>160</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Hassas Cilt]]></label>
+  <catId>238</catId>
+  <parentLabel><![CDATA[Nemlendiriciler]]></parentLabel>
+  <parentId>155</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kuru Ciltler]]></label>
+  <catId>239</catId>
+  <parentLabel><![CDATA[Nemlendiriciler]]></parentLabel>
+  <parentId>155</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kuru Saçlar]]></label>
+  <catId>240</catId>
+  <parentLabel><![CDATA[Şampuanlar]]></parentLabel>
+  <parentId>153</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Serumlar]]></label>
+  <catId>241</catId>
+  <parentLabel><![CDATA[Anti-Aging Ürünler]]></parentLabel>
+  <parentId>151</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Saç Dökülme Önleyici Şampuanlar]]></label>
+  <catId>242</catId>
+  <parentLabel><![CDATA[Saç Dökülme Önlemeye Yardımcı Ürünler]]></parentLabel>
+  <parentId>161</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Serumlar]]></label>
+  <catId>244</catId>
+  <parentLabel><![CDATA[Akne ve Sivilce Ürünleri]]></parentLabel>
+  <parentId>164</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Hassas Ciltler]]></label>
+  <catId>246</catId>
+  <parentLabel><![CDATA[Cilt Bakım Ürünleri]]></parentLabel>
+  <parentId>165</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Selülit Önlemeye Yardımcı Ürünler]]></label>
+  <catId>247</catId>
+  <parentLabel><![CDATA[Vücut Bakım Ürünleri]]></parentLabel>
+  <parentId>142</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Maskeler]]></label>
+  <catId>248</catId>
+  <parentLabel><![CDATA[Anti-Aging Ürünler]]></parentLabel>
+  <parentId>151</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tüm Cilt Tipleri]]></label>
+  <catId>249</catId>
+  <parentLabel><![CDATA[Cilt Temizleme Ürünleri]]></parentLabel>
+  <parentId>154</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kremler]]></label>
+  <catId>251</catId>
+  <parentLabel><![CDATA[Akne ve Sivilce Ürünleri]]></parentLabel>
+  <parentId>164</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Lekeli Ciltler]]></label>
+  <catId>252</catId>
+  <parentLabel><![CDATA[Cilt Tipine Göre Güneş Ürünleri]]></parentLabel>
+  <parentId>170</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kepek Ve Yağlı Saçlara Özel]]></label>
+  <catId>253</catId>
+  <parentLabel><![CDATA[Şampuanlar]]></parentLabel>
+  <parentId>153</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Yıpranmış Saç Bakım Spreyleri]]></label>
+  <catId>254</catId>
+  <parentLabel><![CDATA[Saç Bakım Kürleri]]></parentLabel>
+  <parentId>169</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Yıpranmış Saç Maskeleri]]></label>
+  <catId>255</catId>
+  <parentLabel><![CDATA[Saç Bakım Maskeleri]]></parentLabel>
+  <parentId>171</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Temizleyiciler]]></label>
+  <catId>257</catId>
+  <parentLabel><![CDATA[Akne ve Sivilce Ürünleri]]></parentLabel>
+  <parentId>164</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Güneş sütleri]]></label>
+  <catId>258</catId>
+  <parentLabel><![CDATA[Çocuklar İçin]]></parentLabel>
+  <parentId>173</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Morluk Ve Şişlik]]></label>
+  <catId>260</catId>
+  <parentLabel><![CDATA[Göz Çevresi Bakımı]]></parentLabel>
+  <parentId>159</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Koruyucu (Lipstick)]]></label>
+  <catId>261</catId>
+  <parentLabel><![CDATA[Ruj Ve Dudak Ürünleri]]></parentLabel>
+  <parentId>186</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Maskeler]]></label>
+  <catId>262</catId>
+  <parentLabel><![CDATA[Cilt Temizleme Ürünleri]]></parentLabel>
+  <parentId>154</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Göz Ve Dudak Makyajı Temizleyiciler]]></label>
+  <catId>263</catId>
+  <parentLabel><![CDATA[Makyaj Temizleme]]></parentLabel>
+  <parentId>235</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Bakım Yağları]]></label>
+  <catId>265</catId>
+  <parentLabel><![CDATA[Nemlendiriciler]]></parentLabel>
+  <parentId>155</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Nemlendirici Serumlar]]></label>
+  <catId>266</catId>
+  <parentLabel><![CDATA[Nemlendiriciler]]></parentLabel>
+  <parentId>155</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Toz Fondöten]]></label>
+  <catId>267</catId>
+  <parentLabel><![CDATA[Fondotenler]]></parentLabel>
+  <parentId>176</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Yağlı Ciltler]]></label>
+  <catId>270</catId>
+  <parentLabel><![CDATA[Cilt Bakım Ürünleri]]></parentLabel>
+  <parentId>165</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Yüz Makyaj Temizleyiciler]]></label>
+  <catId>271</catId>
+  <parentLabel><![CDATA[Makyaj Temizleme]]></parentLabel>
+  <parentId>235</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Göz Çevresi Nemlendiricileri]]></label>
+  <catId>272</catId>
+  <parentLabel><![CDATA[Göz Çevresi Bakımı]]></parentLabel>
+  <parentId>159</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tırnak Bakımı]]></label>
+  <catId>273</catId>
+  <parentLabel><![CDATA[El-Ayak ve Tırnak Bakımı]]></parentLabel>
+  <parentId>160</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Ayak Bakımı]]></label>
+  <catId>274</catId>
+  <parentLabel><![CDATA[El-Ayak ve Tırnak Bakımı]]></parentLabel>
+  <parentId>160</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Hacimsiz Ve İnce Saçlara Özel]]></label>
+  <catId>275</catId>
+  <parentLabel><![CDATA[Şampuanlar]]></parentLabel>
+  <parentId>153</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Yıpranmış Saç Kremleri]]></label>
+  <catId>276</catId>
+  <parentLabel><![CDATA[Saç  Kremleri]]></parentLabel>
+  <parentId>179</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Boyalı Ve Renk Koruyucu Saç Maskeleri]]></label>
+  <catId>277</catId>
+  <parentLabel><![CDATA[Saç Bakım Maskeleri]]></parentLabel>
+  <parentId>171</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Hacimsiz Ve İnce Saçlara Özel]]></label>
+  <catId>278</catId>
+  <parentLabel><![CDATA[Saç  Kremleri]]></parentLabel>
+  <parentId>179</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Nemsiz Ve Kuru Saç Kremleri]]></label>
+  <catId>279</catId>
+  <parentLabel><![CDATA[Saç  Kremleri]]></parentLabel>
+  <parentId>179</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kızarık Cilt Kremleri]]></label>
+  <catId>280</catId>
+  <parentLabel><![CDATA[Cilt Bakım Ürünleri]]></parentLabel>
+  <parentId>165</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kuru Cilt Kremleri]]></label>
+  <catId>281</catId>
+  <parentLabel><![CDATA[Cilt Bakım Ürünleri]]></parentLabel>
+  <parentId>165</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Sabunlar]]></label>
+  <catId>282</catId>
+  <parentLabel><![CDATA[Cilt Temizleme Ürünleri]]></parentLabel>
+  <parentId>154</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Deodorantlar]]></label>
+  <catId>283</catId>
+  <parentLabel><![CDATA[Parfüm Deodorant Ve Roll-on]]></parentLabel>
+  <parentId>181</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Jel - köpük - sabun]]></label>
+  <catId>284</catId>
+  <parentLabel><![CDATA[Tıraş Ürünleri]]></parentLabel>
+  <parentId>180</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Güneş Korumalı Nemlendiriciler]]></label>
+  <catId>285</catId>
+  <parentLabel><![CDATA[Nemlendiriciler]]></parentLabel>
+  <parentId>155</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Atopik Vücut Kremleri Ve Yağları]]></label>
+  <catId>286</catId>
+  <parentLabel><![CDATA[Vücut Bakım Ürünleri]]></parentLabel>
+  <parentId>142</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Vücut Nemlendiricileri]]></label>
+  <catId>287</catId>
+  <parentLabel><![CDATA[Vücut Bakım Ürünleri]]></parentLabel>
+  <parentId>142</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Göz Makyaj Ürünleri]]></label>
+  <catId>288</catId>
+  <parentLabel><![CDATA[Makyaj Ürünleri]]></parentLabel>
+  <parentId>140</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Atopik Cilt Kremleri]]></label>
+  <catId>291</catId>
+  <parentLabel><![CDATA[Cilt Bakım Ürünleri]]></parentLabel>
+  <parentId>165</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kapatıcı Ürünler-Makyaj Bazı]]></label>
+  <catId>292</catId>
+  <parentLabel><![CDATA[Yüz  Makyaj Ürünleri]]></parentLabel>
+  <parentId>141</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Maskeler]]></label>
+  <catId>293</catId>
+  <parentLabel><![CDATA[Akne ve Sivilce Ürünleri]]></parentLabel>
+  <parentId>164</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Compact Fondoten]]></label>
+  <catId>294</catId>
+  <parentLabel><![CDATA[Fondotenler]]></parentLabel>
+  <parentId>176</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Spf50+ Ve Spf 50]]></label>
+  <catId>296</catId>
+  <parentLabel><![CDATA[Çocuklar İçin]]></parentLabel>
+  <parentId>173</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Pudralar]]></label>
+  <catId>297</catId>
+  <parentLabel><![CDATA[Yüz  Makyaj Ürünleri]]></parentLabel>
+  <parentId>141</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Krem, Losyon ve Süt]]></label>
+  <catId>298</catId>
+  <parentLabel><![CDATA[Yetişkinler İçin]]></parentLabel>
+  <parentId>162</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Maskara Ve Rimel]]></label>
+  <catId>299</catId>
+  <parentLabel><![CDATA[Göz Makyaj Ürünleri]]></parentLabel>
+  <parentId>288</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Parfümler]]></label>
+  <catId>300</catId>
+  <parentLabel><![CDATA[Parfüm Deodorant Ve Roll-on]]></parentLabel>
+  <parentId>181</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Arındırıcı Ve peelingler]]></label>
+  <catId>301</catId>
+  <parentLabel><![CDATA[Banyo Ve Spa Ürünleri]]></parentLabel>
+  <parentId>191</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Renkli Nemlendiriciler]]></label>
+  <catId>303</catId>
+  <parentLabel><![CDATA[Nemlendiriciler]]></parentLabel>
+  <parentId>155</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tonikler]]></label>
+  <catId>304</catId>
+  <parentLabel><![CDATA[Cilt Temizleme Ürünleri]]></parentLabel>
+  <parentId>154</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Hassas Ciltler]]></label>
+  <catId>305</catId>
+  <parentLabel><![CDATA[Cilt Tipine Göre Güneş Ürünleri]]></parentLabel>
+  <parentId>170</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Normal Ciltler İçin]]></label>
+  <catId>306</catId>
+  <parentLabel><![CDATA[Cilt Tipine Göre Güneş Ürünleri]]></parentLabel>
+  <parentId>170</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Karma Ciltler]]></label>
+  <catId>307</catId>
+  <parentLabel><![CDATA[Cilt Tipine Göre Güneş Ürünleri]]></parentLabel>
+  <parentId>170</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Roll-onlar]]></label>
+  <catId>308</catId>
+  <parentLabel><![CDATA[Parfüm Deodorant Ve Roll-on]]></parentLabel>
+  <parentId>181</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Sprey]]></label>
+  <catId>310</catId>
+  <parentLabel><![CDATA[Yetişkinler İçin]]></parentLabel>
+  <parentId>162</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Compact]]></label>
+  <catId>313</catId>
+  <parentLabel><![CDATA[Yetişkinler İçin]]></parentLabel>
+  <parentId>162</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Krem]]></label>
+  <catId>314</catId>
+  <parentLabel><![CDATA[Çocuklar İçin]]></parentLabel>
+  <parentId>173</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Allık]]></label>
+  <catId>315</catId>
+  <parentLabel><![CDATA[Yüz  Makyaj Ürünleri]]></parentLabel>
+  <parentId>141</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Gece Bakım Kremleri]]></label>
+  <catId>317</catId>
+  <parentLabel><![CDATA[Nemlendiriciler]]></parentLabel>
+  <parentId>155</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Akneli Ve Yağlı Ciltler]]></label>
+  <catId>318</catId>
+  <parentLabel><![CDATA[Cilt Tipine Göre Güneş Ürünleri]]></parentLabel>
+  <parentId>170</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kuru Ve Atopik Ciltler]]></label>
+  <catId>319</catId>
+  <parentLabel><![CDATA[Cilt Tipine Göre Güneş Ürünleri]]></parentLabel>
+  <parentId>170</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Spreyler]]></label>
+  <catId>320</catId>
+  <parentLabel><![CDATA[Saç Şekillendiriciler]]></parentLabel>
+  <parentId>178</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Duş Jeli]]></label>
+  <catId>321</catId>
+  <parentLabel><![CDATA[Banyo Ürünleri]]></parentLabel>
+  <parentId>150</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Losyonlar Ve Sütler]]></label>
+  <catId>322</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>216</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Diş Macunları]]></label>
+  <catId>323</catId>
+  <parentLabel><![CDATA[Ağız Bakım Ürünleri]]></parentLabel>
+  <parentId>185</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Dudak Parlatıcısı]]></label>
+  <catId>325</catId>
+  <parentLabel><![CDATA[Ruj Ve Dudak Ürünleri]]></parentLabel>
+  <parentId>186</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Fırçalar]]></label>
+  <catId>326</catId>
+  <parentLabel><![CDATA[Makyaj Aksesuarları]]></parentLabel>
+  <parentId>187</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Losyon]]></label>
+  <catId>327</catId>
+  <parentLabel><![CDATA[Çocuklar İçin]]></parentLabel>
+  <parentId>173</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Banyo Köpüğü]]></label>
+  <catId>328</catId>
+  <parentLabel><![CDATA[Banyo Ürünleri]]></parentLabel>
+  <parentId>150</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Sabunlar]]></label>
+  <catId>329</catId>
+  <parentLabel><![CDATA[Banyo Ve Spa Ürünleri]]></parentLabel>
+  <parentId>191</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Günlük Kullanım]]></label>
+  <catId>330</catId>
+  <parentLabel><![CDATA[Şampuanlar]]></parentLabel>
+  <parentId>153</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Genital Bölge Sağlığı]]></label>
+  <catId>331</catId>
+  <parentLabel><![CDATA[Bayanlara Özel]]></parentLabel>
+  <parentId>192</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Güneş Korumalı]]></label>
+  <catId>332</catId>
+  <parentLabel><![CDATA[Dudak Bakım Ürünleri]]></parentLabel>
+  <parentId>157</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Duş Yağı]]></label>
+  <catId>333</catId>
+  <parentLabel><![CDATA[Banyo Ve Spa Ürünleri]]></parentLabel>
+  <parentId>191</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Süt Arttırıcılar]]></label>
+  <catId>336</catId>
+  <parentLabel><![CDATA[Emzirme ve Göğüs Bakımı]]></parentLabel>
+  <parentId>149</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kavanoz Ve Kaşık Mamaları]]></label>
+  <catId>337</catId>
+  <parentLabel><![CDATA[Mamalar ve Çaylar]]></parentLabel>
+  <parentId>193</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Çaylar]]></label>
+  <catId>338</catId>
+  <parentLabel><![CDATA[Mamalar ve Çaylar]]></parentLabel>
+  <parentId>193</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Biberon Mamaları]]></label>
+  <catId>339</catId>
+  <parentLabel><![CDATA[Mamalar ve Çaylar]]></parentLabel>
+  <parentId>193</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Süt Saklama]]></label>
+  <catId>340</catId>
+  <parentLabel><![CDATA[Emzirme ve Göğüs Bakımı]]></parentLabel>
+  <parentId>149</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Göğüs Pompası]]></label>
+  <catId>341</catId>
+  <parentLabel><![CDATA[Emzirme ve Göğüs Bakımı]]></parentLabel>
+  <parentId>149</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Biberonlar]]></label>
+  <catId>342</catId>
+  <parentLabel><![CDATA[Biberonlar Ve Aksesuarları]]></parentLabel>
+  <parentId>194</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Biberon Emzikleri]]></label>
+  <catId>343</catId>
+  <parentLabel><![CDATA[Biberonlar Ve Aksesuarları]]></parentLabel>
+  <parentId>194</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tabak , Çatal , Bıçak]]></label>
+  <catId>344</catId>
+  <parentLabel><![CDATA[Bebek Aksesuarları]]></parentLabel>
+  <parentId>195</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Emzikler]]></label>
+  <catId>345</catId>
+  <parentLabel><![CDATA[Emzikler Ve Aksesuarları]]></parentLabel>
+  <parentId>196</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Göğüs Pedleri]]></label>
+  <catId>346</catId>
+  <parentLabel><![CDATA[Emzirme ve Göğüs Bakımı]]></parentLabel>
+  <parentId>149</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Suluklar]]></label>
+  <catId>347</catId>
+  <parentLabel><![CDATA[Biberonlar Ve Aksesuarları]]></parentLabel>
+  <parentId>194</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Biberon Aksesuarı]]></label>
+  <catId>349</catId>
+  <parentLabel><![CDATA[Biberonlar Ve Aksesuarları]]></parentLabel>
+  <parentId>194</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Emzik Aksesuarları]]></label>
+  <catId>352</catId>
+  <parentLabel><![CDATA[Emzikler Ve Aksesuarları]]></parentLabel>
+  <parentId>196</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Banyo Aksesuarları]]></label>
+  <catId>353</catId>
+  <parentLabel><![CDATA[Banyo Ürünleri]]></parentLabel>
+  <parentId>150</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Dişlikler]]></label>
+  <catId>354</catId>
+  <parentLabel><![CDATA[Bebek Aksesuarları]]></parentLabel>
+  <parentId>195</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Günlük Bakım Ürünleri]]></label>
+  <catId>355</catId>
+  <parentLabel><![CDATA[Bebek Aksesuarları]]></parentLabel>
+  <parentId>195</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Bebek Tırnak Makası]]></label>
+  <catId>356</catId>
+  <parentLabel><![CDATA[Bebek Aksesuarları]]></parentLabel>
+  <parentId>195</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Burun Aspiratörü]]></label>
+  <catId>358</catId>
+  <parentLabel><![CDATA[Bebek Aksesuarları]]></parentLabel>
+  <parentId>195</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Vücut Çatlak Önlemeye Yardımcı Ürünler]]></label>
+  <catId>361</catId>
+  <parentLabel><![CDATA[Vücut Bakım Ürünleri]]></parentLabel>
+  <parentId>142</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Sprey]]></label>
+  <catId>362</catId>
+  <parentLabel><![CDATA[Çocuklar İçin]]></parentLabel>
+  <parentId>173</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Boyalı Ve Renk Koruyucu Saç Şampuanları]]></label>
+  <catId>363</catId>
+  <parentLabel><![CDATA[Şampuanlar]]></parentLabel>
+  <parentId>153</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Diş İpleri]]></label>
+  <catId>364</catId>
+  <parentLabel><![CDATA[Ağız Bakım Ürünleri]]></parentLabel>
+  <parentId>185</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Ağız Gargaraları]]></label>
+  <catId>365</catId>
+  <parentLabel><![CDATA[Ağız Bakım Ürünleri]]></parentLabel>
+  <parentId>185</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Diş Fırçaları]]></label>
+  <catId>366</catId>
+  <parentLabel><![CDATA[Ağız Bakım Ürünleri]]></parentLabel>
+  <parentId>185</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Hacimsiz Ve İnce Telli Saçlara Özel]]></label>
+  <catId>368</catId>
+  <parentLabel><![CDATA[Saç Bakım Maskeleri]]></parentLabel>
+  <parentId>171</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Nemsiz Ve Kuru Saç Maskeleri]]></label>
+  <catId>370</catId>
+  <parentLabel><![CDATA[Saç Bakım Maskeleri]]></parentLabel>
+  <parentId>171</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Köpükler]]></label>
+  <catId>371</catId>
+  <parentLabel><![CDATA[Saç Şekillendiriciler]]></parentLabel>
+  <parentId>178</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Boyalı Ve Renk Koruyucu Saç Kremleri]]></label>
+  <catId>372</catId>
+  <parentLabel><![CDATA[Saç  Kremleri]]></parentLabel>
+  <parentId>179</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tüy Dökücüler]]></label>
+  <catId>374</catId>
+  <parentLabel><![CDATA[Tüy Dökmeye ve Gidermeye Yardımcı Ürünler]]></parentLabel>
+  <parentId>200</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Ağdalar]]></label>
+  <catId>375</catId>
+  <parentLabel><![CDATA[Tüy Dökmeye ve Gidermeye Yardımcı Ürünler]]></parentLabel>
+  <parentId>200</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Saç Kremleri]]></label>
+  <catId>376</catId>
+  <parentLabel><![CDATA[Saç Şekillendiriciler]]></parentLabel>
+  <parentId>178</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Uçuk gidericiler]]></label>
+  <catId>448</catId>
+  <parentLabel><![CDATA[Sağlık Ürünleri]]></parentLabel>
+  <parentId>143</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tamponlar]]></label>
+  <catId>449</catId>
+  <parentLabel><![CDATA[Bayanlara Özel]]></parentLabel>
+  <parentId>192</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Hijyenik Pedler]]></label>
+  <catId>450</catId>
+  <parentLabel><![CDATA[Bayanlara Özel]]></parentLabel>
+  <parentId>192</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Wax Ve Jöleler]]></label>
+  <catId>454</catId>
+  <parentLabel><![CDATA[Saç Şekillendiriciler]]></parentLabel>
+  <parentId>178</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Bayan Deodorantlar]]></label>
+  <catId>470</catId>
+  <parentLabel><![CDATA[Deodorantlar]]></parentLabel>
+  <parentId>283</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Erkek Deodorantlar]]></label>
+  <catId>471</catId>
+  <parentLabel><![CDATA[Deodorantlar]]></parentLabel>
+  <parentId>283</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Erkek Roll-on]]></label>
+  <catId>472</catId>
+  <parentLabel><![CDATA[Roll-onlar]]></parentLabel>
+  <parentId>308</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Bayan Roll-on]]></label>
+  <catId>473</catId>
+  <parentLabel><![CDATA[Roll-onlar]]></parentLabel>
+  <parentId>308</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Erkek Parfümleri]]></label>
+  <catId>474</catId>
+  <parentLabel><![CDATA[Parfümler]]></parentLabel>
+  <parentId>300</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tıraş Kolonyası]]></label>
+  <catId>476</catId>
+  <parentLabel><![CDATA[Tıraş Ürünleri]]></parentLabel>
+  <parentId>180</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Temizleme Mendilleri]]></label>
+  <catId>477</catId>
+  <parentLabel><![CDATA[Makyaj Temizleme]]></parentLabel>
+  <parentId>235</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Pudralar]]></label>
+  <catId>480</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>216</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Yağlar]]></label>
+  <catId>481</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>216</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Bebek Setleri]]></label>
+  <catId>483</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>136</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Ateş Ölçerler]]></label>
+  <catId>491</catId>
+  <parentLabel><![CDATA[Bebek Aksesuarları]]></parentLabel>
+  <parentId>195</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Bebek bezi]]></label>
+  <catId>506</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>136</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Aftershave]]></label>
+  <catId>507</catId>
+  <parentLabel><![CDATA[Tıraş Ürünleri]]></parentLabel>
+  <parentId>180</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Dudak Dolgunlaştırıcılar]]></label>
+  <catId>508</catId>
+  <parentLabel><![CDATA[Dudak Bakım Ürünleri]]></parentLabel>
+  <parentId>157</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Bayan Parfümleri]]></label>
+  <catId>513</catId>
+  <parentLabel><![CDATA[Parfümler]]></parentLabel>
+  <parentId>300</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Bacak Makyajı]]></label>
+  <catId>517</catId>
+  <parentLabel><![CDATA[Makyaj Ürünleri]]></parentLabel>
+  <parentId>140</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Ojeler]]></label>
+  <catId>529</catId>
+  <parentLabel><![CDATA[El-Ayak ve Tırnak Bakımı]]></parentLabel>
+  <parentId>160</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Farlar]]></label>
+  <catId>530</catId>
+  <parentLabel><![CDATA[Göz Makyaj Ürünleri]]></parentLabel>
+  <parentId>288</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Rujlar]]></label>
+  <catId>533</catId>
+  <parentLabel><![CDATA[Ruj Ve Dudak Ürünleri]]></parentLabel>
+  <parentId>186</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kaş Kalemleri]]></label>
+  <catId>535</catId>
+  <parentLabel><![CDATA[Göz Makyaj Ürünleri]]></parentLabel>
+  <parentId>288</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Makyaj Sabitleyiciler]]></label>
+  <catId>536</catId>
+  <parentLabel><![CDATA[Yüz  Makyaj Ürünleri]]></parentLabel>
+  <parentId>141</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Eyeliner Ve Dipliner]]></label>
+  <catId>538</catId>
+  <parentLabel><![CDATA[Göz Makyaj Ürünleri]]></parentLabel>
+  <parentId>288</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Dudak Kalemi]]></label>
+  <catId>539</catId>
+  <parentLabel><![CDATA[Ruj Ve Dudak Ürünleri]]></parentLabel>
+  <parentId>186</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Parfümler]]></label>
+  <catId>545</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>216</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Deo Stick]]></label>
+  <catId>551</catId>
+  <parentLabel><![CDATA[Parfüm Deodorant Ve Roll-on]]></parentLabel>
+  <parentId>181</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tıraş Bıçakları Kullan At]]></label>
+  <catId>579</catId>
+  <parentLabel><![CDATA[Tıraş Bıçakları]]></parentLabel>
+  <parentId>1095</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tıraş Bıçakları Makina]]></label>
+  <catId>580</catId>
+  <parentLabel><![CDATA[Tıraş Bıçakları]]></parentLabel>
+  <parentId>1095</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tıraş Bıçakları Yedek]]></label>
+  <catId>581</catId>
+  <parentLabel><![CDATA[Tıraş Bıçakları]]></parentLabel>
+  <parentId>1095</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Sakal ve Bıyık Ürünleri]]></label>
+  <catId>620</catId>
+  <parentLabel><![CDATA[Kişisel Bakım Ürünleri]]></parentLabel>
+  <parentId>138</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kadınlara Özel]]></label>
+  <catId>627</catId>
+  <parentLabel><![CDATA[Cinsel Sağlık Ürünleri]]></parentLabel>
+  <parentId>144</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Erkeklere Özel]]></label>
+  <catId>628</catId>
+  <parentLabel><![CDATA[Cinsel Sağlık Ürünleri]]></parentLabel>
+  <parentId>144</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kremler]]></label>
+  <catId>662</catId>
+  <parentLabel><![CDATA[Bebek Bakım Ürünleri]]></parentLabel>
+  <parentId>216</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Saç Dökülme Önleyici Sprey, Serum Ve Ampuller]]></label>
+  <catId>676</catId>
+  <parentLabel><![CDATA[Saç Dökülme Önlemeye Yardımcı Ürünler]]></parentLabel>
+  <parentId>161</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Krem - Likit Fondoten]]></label>
+  <catId>708</catId>
+  <parentLabel><![CDATA[Fondotenler]]></parentLabel>
+  <parentId>176</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Göz Altı Kapatıcıları]]></label>
+  <catId>712</catId>
+  <parentLabel><![CDATA[Göz Makyaj Ürünleri]]></parentLabel>
+  <parentId>288</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Makyaj Süngerleri]]></label>
+  <catId>716</catId>
+  <parentLabel><![CDATA[Makyaj Aksesuarları]]></parentLabel>
+  <parentId>187</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kolonyalar]]></label>
+  <catId>1050</catId>
+  <parentLabel><![CDATA[Kişisel Bakım Ürünleri]]></parentLabel>
+  <parentId>138</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Geciktiriciler]]></label>
+  <catId>1052</catId>
+  <parentLabel><![CDATA[Cinsel Sağlık Ürünleri]]></parentLabel>
+  <parentId>144</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Ortopedik Ürün ve Gereçleri]]></label>
+  <catId>1053</catId>
+  <parentLabel><![CDATA[Sağlık Ürünleri]]></parentLabel>
+  <parentId>143</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Gündüz Bakım Ürünleri]]></label>
+  <catId>1063</catId>
+  <parentLabel><![CDATA[Nemlendiriciler]]></parentLabel>
+  <parentId>155</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Bit Ve Sirke Ürünleri]]></label>
+  <catId>1064</catId>
+  <parentLabel><![CDATA[Sağlık Ürünleri]]></parentLabel>
+  <parentId>143</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Oje Çıkartıcılar]]></label>
+  <catId>1065</catId>
+  <parentLabel><![CDATA[El-Ayak ve Tırnak Bakımı]]></parentLabel>
+  <parentId>160</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Dİş Parlatıcıları]]></label>
+  <catId>1066</catId>
+  <parentLabel><![CDATA[Ağız Bakım Ürünleri]]></parentLabel>
+  <parentId>185</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Köpükler ve jeller]]></label>
+  <catId>1068</catId>
+  <parentLabel><![CDATA[Cilt Temizleme Ürünleri]]></parentLabel>
+  <parentId>154</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Takma Kirpik]]></label>
+  <catId>1069</catId>
+  <parentLabel><![CDATA[Makyaj Aksesuarları]]></parentLabel>
+  <parentId>187</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Bebek ve Çocuk Parfümleri]]></label>
+  <catId>1071</catId>
+  <parentLabel><![CDATA[Parfümler]]></parentLabel>
+  <parentId>300</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Serumlar]]></label>
+  <catId>1078</catId>
+  <parentLabel><![CDATA[Saç Bakım Kürleri]]></parentLabel>
+  <parentId>169</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Saç Bakım Yağları]]></label>
+  <catId>1080</catId>
+  <parentLabel><![CDATA[Saç Bakım Kürleri]]></parentLabel>
+  <parentId>169</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Durulanmayan Saç Kremleri]]></label>
+  <catId>1081</catId>
+  <parentLabel><![CDATA[Saç  Kremleri]]></parentLabel>
+  <parentId>179</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Gebelik Testi]]></label>
+  <catId>1082</catId>
+  <parentLabel><![CDATA[Bayanlara Özel]]></parentLabel>
+  <parentId>192</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kuru Şampuanlar]]></label>
+  <catId>1083</catId>
+  <parentLabel><![CDATA[Şampuanlar]]></parentLabel>
+  <parentId>153</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tüm Saç Tipleri İçin]]></label>
+  <catId>1084</catId>
+  <parentLabel><![CDATA[Saç  Kremleri]]></parentLabel>
+  <parentId>179</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tüm Saç Tipleri İçin]]></label>
+  <catId>1085</catId>
+  <parentLabel><![CDATA[Şampuanlar]]></parentLabel>
+  <parentId>153</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kulak Tıkaçları]]></label>
+  <catId>1086</catId>
+  <parentLabel><![CDATA[Sağlık Ürünleri]]></parentLabel>
+  <parentId>143</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Diva Fırsatlar]]></label>
+  <catId>1087</catId>
+  <parentLabel><![CDATA[]]></parentLabel>
+  <parentId></parentId>
+ </item>
+ <item>
+  <label><![CDATA[Besin Takviyelerine Yardımcı Ürünler]]></label>
+  <catId>1090</catId>
+  <parentLabel><![CDATA[Sağlık Ürünleri]]></parentLabel>
+  <parentId>143</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Kirpik Bakımı]]></label>
+  <catId>1091</catId>
+  <parentLabel><![CDATA[Göz Çevresi Bakımı]]></parentLabel>
+  <parentId>159</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tüm Ciltler İçin]]></label>
+  <catId>1092</catId>
+  <parentLabel><![CDATA[Cilt Tipine Göre Güneş Ürünleri]]></parentLabel>
+  <parentId>170</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Arındırıcı Bantlar]]></label>
+  <catId>1093</catId>
+  <parentLabel><![CDATA[Gözenek Bakımı]]></parentLabel>
+  <parentId>156</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Sünger Fondöten]]></label>
+  <catId>1094</catId>
+  <parentLabel><![CDATA[Fondotenler]]></parentLabel>
+  <parentId>176</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Tıraş Bıçakları]]></label>
+  <catId>1095</catId>
+  <parentLabel><![CDATA[Tıraş Ürünleri]]></parentLabel>
+  <parentId>180</parentId>
+ </item>
+ <item>
+  <label><![CDATA[çocuklara özel deodorantlar]]></label>
+  <catId>1096</catId>
+  <parentLabel><![CDATA[Deodorantlar]]></parentLabel>
+  <parentId>283</parentId>
+ </item>
+ <item>
+  <label><![CDATA[Diva Natural]]></label>
+  <catId>1097</catId>
+  <parentLabel><![CDATA[]]></parentLabel>
+  <parentId></parentId>
+ </item>
+ <item>
+  <label><![CDATA[Outlet Ürünler]]></label>
+  <catId>1099</catId>
+  <parentLabel><![CDATA[]]></parentLabel>
+  <parentId></parentId>
+ </item>
+ <item>
+  <label><![CDATA[Hediyeli Ürünler]]></label>
+  <catId>1100</catId>
+  <parentLabel><![CDATA[]]></parentLabel>
+  <parentId></parentId>
+ </item>
+ <item>
+  <label><![CDATA[Excel Varsayılan Kategori]]></label>
+  <catId>1105</catId>
+  <parentLabel><![CDATA[]]></parentLabel>
+  <parentId></parentId>
+ </item>
+</root>
